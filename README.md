@@ -1,7 +1,7 @@
 # TCG's War Reports~
 
 ## **2025**
-*Ordered by date; Recent^*\
+*Ordered by date; Recent^*
 
 | Heathen Saints(HS) **07/06** | [Loss](https://scatterbeans.github.io/HS_0607.html) |\
 | Organised Chaos(OC) **24/05** | [Win](https://scatterbeans.github.io/OC_0524.html) |\
@@ -10,4 +10,4 @@
 | DJ-BIRDS OF PASSAGE(DJ) **22/03** | [Loss](https://scatterbeans.github.io/DJ_0322.html) |\
 | Voidbringers(Void) **08/03** | [Loss](https://scatterbeans.github.io/Void_0308.html) |\
 | Black Lotus Society(BLS) **20/02** | [Loss](https://scatterbeans.github.io/BLS_0220.html) |\
-| Cyber Warfare(CW) **31/01** | [Loss](https://scatterbeans.github.io/CW_0131.html) |\
+| Cyber Warfare(CW) **31/01** | [Loss](https://scatterbeans.github.io/CW_0131.html) |
