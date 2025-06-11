@@ -1,8 +1,9 @@
 # TCG's War Reports~
 
-*Ordered by date(dd/mm); Most Recent^*<br/>
+*Ordered by most Recent^*<br/>
 ## **2025**
 
+|  Faction (Tag)  | Date(dd/mm)  | Report  |
 | Heathen Saints (HS) | **07/06** | [Loss](https://scatterbeans.github.io/HS_0607.html) | 
 | Organised Chaos (OC) | **24/05** | [Win](https://scatterbeans.github.io/OC_0524.html) | 
 | Frogs of Fortune (GoA) | **26/04** | [Win](https://scatterbeans.github.io/GOA_0426.html) | 
