@@ -1,6 +1,6 @@
 # TCG's War Reports~
 
-*Ordered by most Recent^*<br/>
+*Ordered by Most Recent^*<br/>
 ## **2025**
 
 |  **Faction (Tag)**  | **Date(dd/mm)**  | **Report**  |
