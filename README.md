@@ -4,6 +4,7 @@
 ## **2025**
 
 |  **Faction (Tag)**  | **Date(dd/mm)**  | **Report**  |
+| TSFTS Microbrewery (BEER) | **10/07** | [Loss](https://scatterbeans.github.io/BEER_0710.html) |
 | Trash Bandits (TB) | **20/06** | [Loss](https://scatterbeans.github.io/TB_0620.html) |
 | Heathen Saints (HS) | **07/06** | [Loss](https://scatterbeans.github.io/HS_0607.html) | 
 | Organised Chaos (OC) | **24/05** | [Win](https://scatterbeans.github.io/OC_0524.html) | 
