@@ -4,6 +4,7 @@
 ## **2025**
 
 |  **Faction (Tag)**  | **Date(dd/mm)**  | **Report**  |
+| The Mad Order (TMO) | **13/09** | [Win](https://scatterbeans.github.io/TMO_1309.html) |
 | Die Blade (DB) | **23/08** | [Win](https://scatterbeans.github.io/DB_2308.html) |
 | Minervan Vanguard (MV) | **02/08** | [Win](https://scatterbeans.github.io/MV_0802.html) |
 | TSFTS Microbrewery (BEER) | **10/07** | [Loss](https://scatterbeans.github.io/BEER_0710.html) |
